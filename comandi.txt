@@ -1,0 +1,10 @@
+// Creare repository su https://github.com/ITISPR
+// Scaricare git per windows https://git-for-windows.github.io/
+git init 4ainf
+oppure
+git clone http://github.com/itispr/4ainf
+git add -A // per tracciare file nuovi o modificati in staging area
+git checkout -- comandi.txt  // per eliminare le modifiche nella cartella di lavoro non ancora in parcheggio (staging)
+git commit -m "primo commit"  // committa tutte le modifiche fatte
+git log // storico dei commit
+git diff  // per vedere differenze file modificato con la staging area
