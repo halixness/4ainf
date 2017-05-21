@@ -8,3 +8,5 @@ git checkout -- comandi.txt  // per eliminare le modifiche nella cartella di lav
 git commit -m "primo commit"  // committa tutte le modifiche fatte
 git log // storico dei commit
 git diff  // per vedere differenze file modificato con la staging area
+git reset --hard numSha  // riporta lo HEAD (puntatore all'ultimo commit) al commit indicato cancellando fisicamente le modifiche successive
+
