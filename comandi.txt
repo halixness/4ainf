@@ -11,5 +11,3 @@ git diff  // per vedere differenze file modificato con la staging area
 git reset --hard numSha  // riporta lo HEAD (puntatore all'ultimo commit) al commit indicato cancellando fisicamente le modifiche successive
 git pull // per sincronizzare sul master eventuali reset
 git rm miaDir -r // rimuove una cartella con il contenuto (bisogna poi aggiornare staging)
-
-riga nuova 
