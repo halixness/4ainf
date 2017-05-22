@@ -8,10 +8,9 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
 import javax.swing.JButton;
-import javax.swing.JComboBox;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 
+@SuppressWarnings("serial")
 public class MainGUI extends JFrame implements WindowListener, ActionListener{
 	private JButton b = new JButton("Apri log");
 	public MainGUI()
@@ -20,7 +19,11 @@ public class MainGUI extends JFrame implements WindowListener, ActionListener{
 		this.setSize(300, 350);
 		this.setLocationRelativeTo(null);
 		this.setBackground(Color.lightGray);
-		this.setLayout(new GridLayout(19, 1));
+		
+		b.addActionListener(this);
+		this.add(b, "Center");
+		
+		this.setVisible(true);
 	}
 
 	@Override
@@ -68,6 +71,10 @@ public class MainGUI extends JFrame implements WindowListener, ActionListener{
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		// TODO Auto-generated method stub
+		if(arg0.getSource() == b)
+		{
+			
+		}
 		
 	}
 	
