@@ -76,18 +76,7 @@ public class GUI extends JFrame {
 					
 					System.out.println("Il file esiste");
 					
-				} else
-					try {
-						if(f.createNewFile())
-						{
-
-							System.out.println("Il file è stato creato");
-						}
-					} catch (IOException e) 
-				{
-						e.printStackTrace();
-					}
-			}
+				} 
 		});
 		contentPane.add(btnSalvaFile, BorderLayout.CENTER);
 		
