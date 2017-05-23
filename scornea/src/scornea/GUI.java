@@ -13,6 +13,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.io.FileOutputStream;
 
 public class GUI extends JFrame {
 
@@ -58,6 +59,34 @@ public class GUI extends JFrame {
 			public void actionPerformed(ActionEvent arg0) 
 			{			
 				
+				if(f.exists())
+				{
+					FileOutputStream fos = null;
+					try {
+						
+					 fos = new FileOutputStream  ("log.txt",true);
+					 PrintWriter Scrivi = new PrintWriter(f);
+						Scrivi.close();
+						
+				
+					} catch (FileNotFoundException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+					
+					System.out.println("Il file esiste");
+					
+				} else
+					try {
+						if(f.createNewFile())
+						{
+
+							System.out.println("Il file è stato creato");
+						}
+					} catch (IOException e) 
+				{
+						e.printStackTrace();
+					}
 			}
 		});
 		contentPane.add(btnSalvaFile, BorderLayout.CENTER);
