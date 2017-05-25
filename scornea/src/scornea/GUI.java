@@ -1,10 +1,7 @@
 package scornea;
 
 import java.awt.BorderLayout;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.FileOutputStream;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -13,17 +10,15 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.io.FileOutputStream;
-
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.awt.EventQueue;
 public class GUI extends JFrame {
 
 	private JPanel contentPane;
-    private File f;
-
-    
-	
-	
-	
+private File f;
 	/**
 	 * Launch the application.
 	 */
@@ -43,7 +38,7 @@ public class GUI extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public GUI() 
+	public GUI()
 	{
 		f = new File ("log.txt");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -53,12 +48,11 @@ public class GUI extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 		
-		JButton btnSalvaFile = new JButton("SALVA FILE");
+		JButton btnSalvaFile = new JButton("Salva File");
 		btnSalvaFile.addActionListener(new ActionListener()
 		{
 			public void actionPerformed(ActionEvent arg0) 
-			{			
-				
+			{
 				if(f.exists())
 				{
 					FileOutputStream fos = null;
@@ -77,12 +71,9 @@ public class GUI extends JFrame {
 					System.out.println("Il file esiste");
 					
 				} 
+			}
 		});
 		contentPane.add(btnSalvaFile, BorderLayout.CENTER);
-		
-		
-		
-		
 	}
 
 }
