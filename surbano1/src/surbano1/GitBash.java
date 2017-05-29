@@ -9,6 +9,11 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextPane;
 import java.awt.GridLayout;
+import java.io.File;
+import java.io.FileReader;
+import javax.swing.AbstractButton;
+import java.util.Vector;
+
 
 public class GitBash extends JFrame implements WindowListener, ActionListener{
 	private JButton button = new JButton("stampa");
@@ -29,10 +34,38 @@ public class GitBash extends JFrame implements WindowListener, ActionListener{
 	}
 	
 	
-
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		// TODO Auto-generated method stub
+		if(arg0.getSource() == button)
+		{
+			File f1 = new File("log.txt");
+			FileReader fr = null;
+				String frase;
+				Vector v = new vector(3);
+			
+			try{
+			fr = new FileReader(f1);
+			}
+			catch (Exception e) {
+				// TODO: handle exception
+				e.printStackTrace();
+			}
+			
+			BufferReader button = new BufferReader(fr);
+			
+			try
+			{
+				while(frase = button.readLine() != null)
+				{
+					v.add(frase);
+				}
+			}	catch (Exception e) {
+				// TODO: handle exception
+				e.printStackTrace();
+			}
+			pannel.setText(v.toString());
+		}
 		
 	}
 
