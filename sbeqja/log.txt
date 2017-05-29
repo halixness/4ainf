@@ -1,0 +1,144 @@
+commit 04628bd5f0f347fa85a983f448232f6d758ecc4a
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:58:35 2017 +0200
+
+    ScauriMaria1
+
+commit d0463f7fa4c3a12c2a2b76f65d5b7a3eb586937d
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:57:27 2017 +0200
+
+    ScauriMaria
+
+commit e7896ed0ff7204b5f4d98086041334542cb87ed3
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:56:02 2017 +0200
+
+    MariaScauri1
+
+commit d9a9adb0c495cb414f0ed4fd1d3510785dfb47f1
+Author: BOSCHI MANUEL (sBOSCHI4) <sBOSCHI4>
+Date:   Thu May 25 11:43:53 2017 +0200
+
+    boschi4
+
+commit d71d8830abfb2e54cc3c17e21f89f4c3d20c6750
+Author: BOSCHI MANUEL (sBOSCHI4) <sBOSCHI4>
+Date:   Thu May 25 11:36:52 2017 +0200
+
+    boschi
+
+commit 685b21ff0ef4befc6754a59dd56af883840bb881
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 09:49:04 2017 +0200
+
+    m
+
+commit 5a6d6e00d73e142acee770d30adc93212eda44d7
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 08:22:40 2017 +0200
+
+    maria
+
+commit 426f31c4143f9df0233cc7031d137123c5429ee5
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 08:20:05 2017 +0200
+
+    maria1
+
+commit fc8feb8cee391b8bfcdc6fbb7517e940d3b45799
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:29:46 2017 +0200
+
+    maria
+
+commit f05bc902153de16814e529fd02501ee106752876
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:26:22 2017 +0200
+
+    maria
+
+commit 0c04d8f9a59ef40124ece6531f15a5bb0d5d0e17
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:16:50 2017 +0200
+
+    commit 1
+
+commit f1ef1508f8046e03d73bfb4ba7a038f98d76f679
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:00:56 2017 +0200
+
+    ultimo
+
+commit 55e42ff377f3616c04bbe78f42ecdbcdc35a4eca
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:53:38 2017 +0200
+
+    commit 3
+
+commit a825f34ac68070bf8091d1814ec76fb4d952d005
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:49:23 2017 +0200
+
+    commit 2
+
+commit 4d4eba0f09ad6514e5d6c303fe37c015385c3b26
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:40:39 2017 +0200
+
+    mio commmit
+
+commit 13e547b4001508c4c6d23dab6287b7c4b33f267d
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:55:52 2017 +0200
+
+    sesto commit
+
+commit 19952f80cb7cd3109833b268d274515279a47ca6
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:53:05 2017 +0200
+
+    quinto commit
+
+commit 3c264369d6cb8c24b6949f9887b5c676c0c7673c
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:51:15 2017 +0200
+
+    quarto commit
+
+commit dcc4cbe2afe0739febc8e85fe300b541ee01a6e8
+Merge: de3e2c0 7edca56
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:49:10 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit de3e2c091169e316d83651e090711a979626c973
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:47:17 2017 +0200
+
+    terzo commit
+
+commit 7edca56b2c4fd0d48a8652f0e45094bf6c926d6a
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:18:40 2017 +0200
+
+    terzo commit
+
+commit a6972e6fbb1aa0e6b28fa9bfbccd7ff0e2a11027
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:15:10 2017 +0200
+
+    secondo commit
+
+commit 2cc4aa4d6285dbe3a6b19db215afabd499cdff0a
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:09:04 2017 +0200
+
+    primo commit
+
+commit ccc27a0f61e037eb1a0c8353fd80a342fe11865a
+Author: ITISPR <git@itis.pr.it>
+Date:   Sun May 14 16:40:59 2017 +0200
+
+    Create README.md
