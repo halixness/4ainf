@@ -1,0 +1,326 @@
+commit 8be6fd06408c51db38b930aa1e05e8835b71d8a0
+Merge: ba862f7 7a39052
+Author: POSTICA CRISTIAN (sPOSTICA) <sPOSTICA>
+Date:   Mon May 29 09:05:06 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit ba862f71ae019a8713216f2f204b3e0c17786c1b
+Author: POSTICA CRISTIAN (sPOSTICA) <sPOSTICA>
+Date:   Mon May 29 09:05:01 2017 +0200
+
+    finale
+
+commit ad255c3b366d4d8206afc30598c8707059bfcbf5
+Author: POSTICA CRISTIAN (sPOSTICA) <sPOSTICA>
+Date:   Mon May 29 09:04:16 2017 +0200
+
+    endheee
+
+commit 7a390528b6690173f89bb24b7df5e2990d4728ff
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:58:24 2017 +0200
+
+    commit finale 2.0
+
+commit 22ba846b8944618e2d919c55ac0f1bdb70dd3fb5
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:57:32 2017 +0200
+
+    commit finale 2.0
+
+commit 2570620ac8613c0f6be8221af1e3016c49380ef1
+Merge: 4ac7528 8948f3c
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:53:20 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit 4ac7528945e5cb87632a76e19499dd0230afb46c
+Merge: 9fca5ec 6df69d6
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:52:04 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit 9fca5ecf55b116634bd805596672f01a2317f651
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:51:57 2017 +0200
+
+    commit finale
+
+commit 6f93ab808b7e475d3a130f3f67d7c75dd6ac4621
+Author: CAPELLAN MENDOZA ALESSANDRO (sCAPELLA) <sCAPELLA>
+Date:   Mon May 29 08:50:40 2017 +0200
+
+    prova *the log*
+
+commit 8948f3c2eb89c836d56ad99de83ab83020000f59
+Author: THEI RICCARDO (sTHEI) <sTHEI>
+Date:   Mon May 29 08:50:38 2017 +0200
+
+    theiR
+
+commit 6df69d66a9d465cb8e020d591859cf256ca3f794
+Author: THEI RICCARDO (sTHEI) <sTHEI>
+Date:   Mon May 29 08:48:45 2017 +0200
+
+    thei1
+
+commit 6ab2691172fa81e277f3eb2b14430ba862536ec7
+Merge: 470fa50 9e11b2a
+Author: THEI RICCARDO (sTHEI) <sTHEI>
+Date:   Mon May 29 08:46:14 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit 9e11b2a9248a8acee65cea7f415daa76524db42b
+Merge: c830bbd b1f474c
+Author: EJIKE EVERTON CHIMAZURU (sEJIKE) <sEJIKE>
+Date:   Mon May 29 08:44:21 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit b1f474c1e0472c64ffcfb50dfcccbe49fe66f9a1
+Merge: 270fe16 6e0d1e1
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:43:03 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit 270fe16510ce43730a4ac4816991e79cf1382b23
+Merge: 243940a 86229bf
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:42:40 2017 +0200
+
+    after pull
+
+commit 6e0d1e153ab6988063088bb1f9ae51e28caa1d83
+Merge: de49b66 86229bf
+Author: GHIRINI MARCO (sGHIRINI) <sGHIRINI>
+Date:   Mon May 29 08:41:10 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit 243940af3e50c6608a6b503f1493c2bf39e2e4c7
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:40:39 2017 +0200
+
+    inserito il log principale
+
+commit c830bbd218d14f9b2b5ad0d0b04b924ebed8e5d4
+Author: EJIKE EVERTON CHIMAZURU (sEJIKE) <sEJIKE>
+Date:   Mon May 29 08:39:13 2017 +0200
+
+    everton
+
+commit 17f38776b1fd5111b2d1470ba3e73815fdb07d26
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:39:07 2017 +0200
+
+    modifico il src
+
+commit d8388e37df20bf0413f5bcba9d3cb89820dd5533
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:37:41 2017 +0200
+
+    salvo il file log
+
+commit 86229bfd109f012b53b488742f7d6d94bd646ac6
+Author: CALANZONE DIEGO (sCALANZO) <sCALANZO>
+Date:   Mon May 29 08:36:43 2017 +0200
+
+    Aggiunto sCALANZO
+
+commit cce2aaed67f8d42939334ea874e1cb8418abd57c
+Author: EJIKE EVERTON CHIMAZURU (sEJIKE) <sEJIKE>
+Date:   Mon May 29 08:32:49 2017 +0200
+
+    ejike
+
+commit de49b66dfec44d729189afaede5babcc9c782ae2
+Author: GHIRINI MARCO (sGHIRINI) <sGHIRINI>
+Date:   Mon May 29 08:32:36 2017 +0200
+
+    Commit finale
+
+commit 470fa508f599f39a26b6dda7b4b6bc46d41fc617
+Author: THEI RICCARDO (sTHEI) <sTHEI>
+Date:   Mon May 29 08:31:52 2017 +0200
+
+    thei
+
+commit ddb1ab62f1f6f6e7f21e64d98b082e6390ae6c84
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 29 08:24:28 2017 +0200
+
+    primo commit progetto
+
+commit cc13412f5650e71b343f192ee71dba385b177cc5
+Author: BEQJA ENISA <sBEQJA>
+Date:   Mon May 29 08:23:40 2017 +0200
+
+    beqja1
+
+commit 04628bd5f0f347fa85a983f448232f6d758ecc4a
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:58:35 2017 +0200
+
+    ScauriMaria1
+
+commit d0463f7fa4c3a12c2a2b76f65d5b7a3eb586937d
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:57:27 2017 +0200
+
+    ScauriMaria
+
+commit e7896ed0ff7204b5f4d98086041334542cb87ed3
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Thu May 25 11:56:02 2017 +0200
+
+    MariaScauri1
+
+commit d9a9adb0c495cb414f0ed4fd1d3510785dfb47f1
+Author: BOSCHI MANUEL (sBOSCHI4) <sBOSCHI4>
+Date:   Thu May 25 11:43:53 2017 +0200
+
+    boschi4
+
+commit d71d8830abfb2e54cc3c17e21f89f4c3d20c6750
+Author: BOSCHI MANUEL (sBOSCHI4) <sBOSCHI4>
+Date:   Thu May 25 11:36:52 2017 +0200
+
+    boschi
+
+commit 685b21ff0ef4befc6754a59dd56af883840bb881
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 09:49:04 2017 +0200
+
+    m
+
+commit 5a6d6e00d73e142acee770d30adc93212eda44d7
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 08:22:40 2017 +0200
+
+    maria
+
+commit 426f31c4143f9df0233cc7031d137123c5429ee5
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Tue May 23 08:20:05 2017 +0200
+
+    maria1
+
+commit 049f00b300bb8be0ae96d1d3566d8df01d4ee450
+Author: STRINA RICCARDO (sSTRINA3) <sSTRINA3>
+Date:   Mon May 22 09:30:06 2017 +0200
+
+    blank project
+
+commit fc8feb8cee391b8bfcdc6fbb7517e940d3b45799
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:29:46 2017 +0200
+
+    maria
+
+commit 8f69df41d40508b738f6d5a6ad0af4781b2d30b9
+Author: GHIRINI MARCO (sGHIRINI) <sGHIRINI>
+Date:   Mon May 22 09:29:05 2017 +0200
+
+    aggiunto bottone
+
+commit f05bc902153de16814e529fd02501ee106752876
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:26:22 2017 +0200
+
+    maria
+
+commit 5d0261f1be93fb4bfc97fc460082bb5e9db3a3a8
+Author: GHIRINI MARCO (sGHIRINI) <sGHIRINI>
+Date:   Mon May 22 09:24:01 2017 +0200
+
+    Creata Interfaccia
+
+commit 0c04d8f9a59ef40124ece6531f15a5bb0d5d0e17
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:16:50 2017 +0200
+
+    commit 1
+
+commit f1ef1508f8046e03d73bfb4ba7a038f98d76f679
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 09:00:56 2017 +0200
+
+    ultimo
+
+commit 55e42ff377f3616c04bbe78f42ecdbcdc35a4eca
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:53:38 2017 +0200
+
+    commit 3
+
+commit a825f34ac68070bf8091d1814ec76fb4d952d005
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:49:23 2017 +0200
+
+    commit 2
+
+commit 4d4eba0f09ad6514e5d6c303fe37c015385c3b26
+Author: SCAURI CORNEA MARIA (sCORNEA) <sCORNEA>
+Date:   Mon May 22 08:40:39 2017 +0200
+
+    mio commmit
+
+commit 13e547b4001508c4c6d23dab6287b7c4b33f267d
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:55:52 2017 +0200
+
+    sesto commit
+
+commit 19952f80cb7cd3109833b268d274515279a47ca6
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:53:05 2017 +0200
+
+    quinto commit
+
+commit 3c264369d6cb8c24b6949f9887b5c676c0c7673c
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:51:15 2017 +0200
+
+    quarto commit
+
+commit dcc4cbe2afe0739febc8e85fe300b541ee01a6e8
+Merge: de3e2c0 7edca56
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:49:10 2017 +0200
+
+    Merge branch 'master' of http://github.com/itispr/4ainf
+
+commit de3e2c091169e316d83651e090711a979626c973
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 21 19:47:17 2017 +0200
+
+    terzo commit
+
+commit 7edca56b2c4fd0d48a8652f0e45094bf6c926d6a
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:18:40 2017 +0200
+
+    terzo commit
+
+commit a6972e6fbb1aa0e6b28fa9bfbccd7ff0e2a11027
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:15:10 2017 +0200
+
+    secondo commit
+
+commit 2cc4aa4d6285dbe3a6b19db215afabd499cdff0a
+Author: itispr <git@itis.pr.it>
+Date:   Sun May 14 17:09:04 2017 +0200
+
+    primo commit
+
+commit ccc27a0f61e037eb1a0c8353fd80a342fe11865a
+Author: ITISPR <git@itis.pr.it>
+Date:   Sun May 14 16:40:59 2017 +0200
+
+    Create README.md
